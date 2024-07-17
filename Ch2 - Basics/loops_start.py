@@ -12,6 +12,7 @@ def main():
     while (x < 5):
         print(x)
         x = x + 1
+    print(x)
 
     # TODO: define a for loop
 
