@@ -9,7 +9,9 @@ def main():
     x = 0
 
     # TODO: define a while loop
-
+    while (x < 5):
+        print(x)
+        x = x + 1
 
     # TODO: define a for loop
 
