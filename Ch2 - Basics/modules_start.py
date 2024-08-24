@@ -13,3 +13,4 @@ print("the square root of 16 is",math.sqrt(16))
 print("pi is ", math.pi)
 
 # TODO: try some of the math functions for yourself here:
+str.__len__
